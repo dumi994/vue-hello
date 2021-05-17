@@ -5,9 +5,10 @@
 let app = new Vue(
     {
         el: '#root',
-        data :{
-            saluto: "Benvenuto in",
+        data : {
+            saluto: "Benvenuto in ",
             logoVJS:"./assets/img/Untitled-design-2019-09-03T162841.927-620x420.png",
-        },
+        }    
     }
 )
+
